@@ -10,15 +10,16 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://F2011.github.com',
+  url: 'https://F2011.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/Urlaubsblog-2025/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Die Urlauber', // Usually your GitHub org/user name.
-  projectName: 'Sommerurlaub 2025', // Usually your repo name.
+  organizationName: 'F2011', // Usually your GitHub org/user name.
+  projectName: 'Urlaubsblog-2025', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
