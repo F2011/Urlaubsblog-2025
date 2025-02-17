@@ -13,7 +13,7 @@ const config: Config = {
   url: 'https://F2011.github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/urlaubsblog-2025/',
+  baseUrl: '/Urlaubsblog-2025/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
