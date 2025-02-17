@@ -63,9 +63,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Sommerurlaub 2025',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Docusaurus',
         src: 'img/logo.svg',
       },
     },
