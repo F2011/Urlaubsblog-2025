@@ -5,7 +5,7 @@ authors: [slorber, leon]
 tags: [hola, docusaurus]
 ---
 
-Lorem ipsum dolor sit amet...
+Lorem ipsum dolor sit amet.
 
 <!-- truncate -->
 
