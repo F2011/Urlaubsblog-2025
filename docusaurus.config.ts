@@ -38,6 +38,7 @@ const config: Config = {
       {
         docs: false,
         blog: {
+          routeBasePath: '/',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],

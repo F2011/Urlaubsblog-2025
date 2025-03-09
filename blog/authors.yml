@@ -1,9 +1,9 @@
 leon:
   name: Leon
   title: Fahrer :)
-  image_url: https://github.com/F2011/Urlaubsblog-2025/tree/main/static/img/leon.png
+  image_url: https://github.com/f2011.png
 
 slorber:
   name: Sébastien Lorber
   title: Docusaurus maintainer
-  image_url: https://github.com/F2011/Urlaubsblog-2025/tree/main/static/img/leon.png
+  image_url: ../static/img/docusaurus.png

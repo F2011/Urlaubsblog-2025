@@ -6,6 +6,7 @@ tags: [hola, docusaurus]
 ---
 
 Lorem ipsum dolor sit amet...
+What a nice blog post
 
 <!-- truncate -->
 
