@@ -10,7 +10,7 @@ authors: [leon]
 4. Schicke mir deinen username und deine email-Adresse, dann füge ich dich als Collaborator hinzu.
 5. Auf den Stift oben rechts klicken und die Datei bearbeiten.
 6. Wenn bearbeitet, auf _Commit changes_ klicken, eine kurze Beschreibung eingeben, was man gemacht hat (3-4 Worte oder so) und commiten
-7. nach 2 min oder so, sollte der [Blog](https://f2011.github.io/Urlaubsblog-2025/) aktualisiert sein sein.
+7. nach 2 min oder so sollte der [Blog](https://f2011.github.io/Urlaubsblog-2025/) aktualisiert sein sein.
 
 
 ## Ein paar Tipps und Tricks:
